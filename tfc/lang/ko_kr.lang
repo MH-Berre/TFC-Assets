@@ -246,8 +246,8 @@ config.tfc.general.sluiceOreChance.tooltip=사금 수문 작업으로 작은 광
 config.tfc.general.sluiceGemChance=사금 수문 보석 확률
 config.tfc.general.sluiceGemChance.tooltip=사금 수문 작업으로 보석을 얻을 확률을 정합니다.
 
-config.tfc.general.sluice다이아몬드GemChance=사금 수문 다이아몬드 보석 확률
-config.tfc.general.sluice다이아몬드GemChance.tooltip=사금 수문 작업으로 나온 보석이 다이아몬드일 확률을 정합니다.
+config.tfc.general.sluiceDiamondGemChance=사금 수문 다이아몬드 보석 확률
+config.tfc.general.sluiceDiamondGemChance.tooltip=사금 수문 작업으로 나온 보석이 다이아몬드일 확률을 정합니다.
 
 config.tfc.general.overworkChunk=청크 과작업 해제
 config.tfc.general.overworkChunk.tooltip=true로 설정하면, 사금판과 사금 수문의 작업 횟수제한이 사라집니다.
@@ -330,8 +330,8 @@ config.tfc.world.latitudeTemperatureModifier.tooltip=온도 구역의 크기를 
 config.tfc.world.clayRarity=점토 퇴적층 희귀도
 config.tfc.world.clayRarity.tooltip=점토 구덩이 발생 확률을 조절합니다. 점토가 생성될 수 있는 지형에서 평균 1/N 청크 중 하나에 점토 구덩이가 생성됩니다.
 
-config.tfc.world.loose돌조각sFrequency=떨어져 있는 돌 빈도
-config.tfc.world.loose돌조각sFrequency.tooltip=청크당 떨어져 있는 돌의 수를 정합니다. 광물 조각들도 포함합니다.
+config.tfc.world.looseRocksFrequency=떨어져 있는 돌 빈도
+config.tfc.world.looseRocksFrequency.tooltip=청크당 떨어져 있는 돌의 수를 정합니다. 광물 조각들도 포함합니다.
 
 config.tfc.world.rainfallSpreadFactor=Rainfall Spread Factor
 config.tfc.world.rainfallSpreadFactor.tooltip=This controls how spread the rainfall distribution is. Higher values mean the world will be distributed towards the extremes more. WARNING: This is can cause very weird world generation conditions.
